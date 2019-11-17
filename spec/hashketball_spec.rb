@@ -1,5 +1,4 @@
 require 'spec_helper'
-
 describe 'hashketball' do
 
   describe '#game_hash' do
@@ -76,7 +75,6 @@ describe 'hashketball' do
     end
 
   end
-
   describe '#player_numbers' do
 
     it 'returns the player jersey numbers' do
